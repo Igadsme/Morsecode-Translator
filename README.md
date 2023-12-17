@@ -1,0 +1,2 @@
+# Morsecode Translator
+ The Morse Code Translator is a simple Java program that allows users to convert English text into Morse code. Developed using Java and designed for simplicity, the program takes user input in the form of an English text string and produces the corresponding Morse code translation. The translation includes Morse code representations for alphabets, numbers, and select special characters
